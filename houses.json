@@ -1,0 +1,2092 @@
+[
+  {
+    "_id": {
+      "$oid": "66142e5710369d059da19462"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g865cf3f3dd37299c14e7b89c1d483f7362508d705c9bff31a107018e2c927482e7977d6e2d6b00c83480bfccd8955c2056fe904ac162b1d95089b1d3f240c9c3_640.jpg",
+    "year": 2003,
+    "price": 230000,
+    "description": "Rustic log cabin with a stone fireplace and mountain views.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2023-05-11T21:41:07.979Z",
+    "updatedAt": "2023-05-11T21:41:07.979Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e571bc428ae3f41f854"
+    },
+    "bedrooms": 6,
+    "bathrooms": 4,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g59fe09dbcbaa9ade48191ff67d7141a2eeef639275decdff31c0f69cfafc0e9e1f6d8af4ef82760252d61d89488ac68318828405b1a88a3ed7cd48c76f5c3e73_640.jpg",
+    "year": 1918,
+    "price": 56000,
+    "description": "Contemporary city penthouse with a private terrace and skyline vistas.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-05-16T22:58:09.733Z",
+    "updatedAt": "2023-05-16T22:58:09.733Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57cda59d34f731fc71"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g1257cd80eb2eca614399825b289dedaa7ac43931aa4820f5a10b1a59ce7e617703b3d635e5a8436de65c1335a45c1d06992291c93af0c879a6591696137bc5eb_640.jpg",
+    "year": 2000,
+    "price": 2000,
+    "description": "Historic Victorian mansion with period details and a carriage house.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-05-17T01:58:24.913Z",
+    "updatedAt": "2023-05-17T01:58:24.913Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576432961f469f4037"
+    },
+    "bedrooms": 9,
+    "bathrooms": 2,
+    "levels": 9999,
+    "imgUrl": "https://pixabay.com/get/g935faaa6de74ea470478a1970eeda145db2930d46c0f4340a0efcce780be149a5b56e9f126b95638f882233059ecec82d7d1b32548ee38b800c3dba8b7b5f72f_640.jpg",
+    "year": 2001,
+    "price": 7400,
+    "description": "Secluded lakefront retreat with a dock and boathouse.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2023-05-17T02:26:23.976Z",
+    "updatedAt": "2023-05-17T02:26:23.976Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575e44ecc4031f3218"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g5231de3f7be1a4736a04511892f63a07da3c6b894ef5d499984c69df6b60a1a9f68804a58b8052162c763e3e4e18e4d0d55af03a1b5ea77084ce1cef39d354db_640.jpg",
+    "year": 2023,
+    "price": 2500,
+    "description": "Charming Tudor home with a rose garden and stained glass windows.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-05-17T03:11:02.676Z",
+    "updatedAt": "2023-05-17T03:11:02.676Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5753ab15b3b84ac85a"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gbe5c629aa8a76e7ea94ada635f4bf3199e7a34a4e87eb66b63dc5d24add4f1867b141ae6e532607cd79191a619bf5d5ba628c0c8fc755f048b04d385779df4e7_640.jpg",
+    "year": 1929,
+    "price": 150000,
+    "description": "Modern farmhouse with a wrap-around porch and chef's kitchen.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-05-17T03:11:14.982Z",
+    "updatedAt": "2023-05-17T03:11:14.982Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e578184b6210ed25bb2"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g98d86d53fdd4c3a36d2667f7dd8a340a01a87582e6fc592485c46d186317d1963d5ba39c2e1fd6c151c8752255168b52_640.jpg",
+    "year": 2032,
+    "price": 1000000,
+    "description": "Sleek urban townhouse with a rooftop deck and city skyline views.",
+    "creatorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    },
+    "createdAt": "2023-05-17T03:20:05.831Z",
+    "updatedAt": "2023-05-17T03:20:05.831Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57f08843d61bda4dda"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g562dfc6f6287a917dc0e84af93f7a968dc365028c56ea2d21631fe98c26152ba758d1c615bc595d392cafea8ab97fdcbef6104c77c224762282acc1635755058_640.jpg",
+    "year": 2022,
+    "price": 500000,
+    "description": "Cozy cottage nestled in the woods with a stream and hiking trails.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-05-17T04:08:35.918Z",
+    "updatedAt": "2023-05-17T04:08:35.918Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57232f0ce24955632b"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gc0e6bf2e6559f7754ee6a9b906585fa78efa5ea454cdb8010fe0f35a4cdc44795a95cf1e42d26b3daf983be711ab9f729689ded9392536528c70f098eb37cd7a_640.jpg",
+    "year": 2022,
+    "price": 5,
+    "description": "Luxurious Mediterranean villa with a pool and outdoor kitchen.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2023-05-24T03:16:53.624Z",
+    "updatedAt": "2023-05-24T03:16:53.624Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a3694a0287d3a2d1"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gbb00b12ccaaca17b6a768f731e7f58dd24338920b330910c9c7fff185b13befc779cd446069f49b3cddc71d453090b26592b5237e0b07de10b8ee0f4edc5df40_640.jpg",
+    "year": 1995,
+    "price": 499999,
+    "description": "Elegant colonial estate with a tennis court and guest house.",
+    "creatorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    },
+    "createdAt": "2023-05-31T02:09:20.950Z",
+    "updatedAt": "2023-05-31T02:09:20.950Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57091b3bd9a02db97c"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gd155778c1b0f75466e7bb0bb67758b90e04462c993da31c91096c4ea63e133660ce68927aa83ffc05fe2a0b7d35e487e99ba8c1180b63bcf393a8f8b25c7f47f_640.jpg",
+    "year": 1900,
+    "price": 0,
+    "description": "Stylish mid-century modern home with a pool and open floor plan.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-05-31T03:37:51.150Z",
+    "updatedAt": "2023-05-31T03:37:51.150Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57f2f31d8097f03233"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g4675e81cac8316446731952a1edc158b532a54f79af0e32e28bc4ec6ced557f02fd2b5eb1c82b7f3d49fe23096f55d37de915adaabb9b308c0880795641a4123_640.jpg",
+    "year": 1900,
+    "price": 0,
+    "description": "Quaint beach cottage with ocean views and coastal charm.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2023-05-31T05:57:15.982Z",
+    "updatedAt": "2023-05-31T05:57:15.982Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e570af229f2f06c87d1"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gdf631b72fad149b07af40671a7c72b888d179d79788192bf5d0bad66ae7500565595047ec2237748f742a9512dbef486018c732d650a03fea2d2533bd956fdb6_640.jpg",
+    "year": 2345,
+    "price": 234567,
+    "description": "Mountain chalet with a hot tub and panoramic alpine vistas.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2023-06-01T12:55:58.323Z",
+    "updatedAt": "2023-06-01T12:55:58.323Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57706bb09072687d9b"
+    },
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gb6c8278f64da81173ecd72f30a1dc2019acebbf086cdba70ad77c1193089d738648f863f0c22cc84822eb4faf388adfe_640.jpg",
+    "year": 2014,
+    "price": 100000,
+    "description": "Chic urban condo with skyline views and designer finishes.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-06-27T21:53:28.340Z",
+    "updatedAt": "2023-06-27T21:53:28.340Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5778268417f92a2eef"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gdd49b190f98e9a5f74af7af23aa82296fb1cb5f54f5eb4189d5d335645303a23397e536bb8b5d50c44b0bb9d61616738b8fcacb5673fb0d26c4a03b95aef6d10_640.jpg",
+    "year": 1980,
+    "price": 500,
+    "description": "Historic brownstone with original details and modern updates.",
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-06-27T21:53:29.201Z",
+    "updatedAt": "2023-06-27T21:53:29.201Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ac9af7805c112484"
+    },
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g980ffeab65f7e0f1649fce3ea0d005cf6c2ace7d6f3ecbf59e171c90d2a261ca2b9aba66726ebebd55f669c825a801989e6edf5cd11290b99078e647e5b561ef_640.jpg",
+    "year": 1900,
+    "price": 25,
+    "description": "Contemporary waterfront property with a private dock and boat lift.",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "2023-06-27T22:20:52.936Z",
+    "updatedAt": "2023-06-27T22:20:52.936Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c113bd9c7dafe0e2"
+    },
+    "bedrooms": 13,
+    "bathrooms": 13,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g18753fcf04645bea75317e4290b74c95bfa998cec2c246bc288b7bfdef2e1bf8c9e0a0c0f9a3877fb5d0dca287e48f75e093d6492d5103b5318b7c1018815284_640.jpg",
+    "year": 1600,
+    "price": 459997,
+    "description": "Classic ranch-style home with a large backyard and patio.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-06-27T22:23:42.058Z",
+    "updatedAt": "2023-06-27T22:51:27.091Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ac52b63411491d98"
+    },
+    "bedrooms": 1,
+    "bathrooms": 0,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g4a98d05c01714dba5ff78a6f67186c523a0f1fee561e9b21734aa0199d94ceee90785c6dae93995492796f3f5541e4519b642ad7b4364768ed6ab2221cc86f76_640.jpg",
+    "year": 2006,
+    "price": 15000,
+    "description": "European-inspired villa with terraced gardens and a wine cellar.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-06-27T22:25:24.733Z",
+    "updatedAt": "2023-06-27T22:25:24.733Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e570df2af3afcc327a8"
+    },
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gf9168170b3722442ba4ffae0d52ad1436fb50fb3beaac76f155b8beebbd478d6abc96d513130ec97059978fdb1b62bea_640.jpg",
+    "year": 1960,
+    "price": 530000,
+    "description": "Spacious family home with a backyard pool and outdoor entertaining area.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "2023-06-27T22:31:32.780Z",
+    "updatedAt": "2023-06-27T22:31:32.780Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5723bd875b7904d9cd"
+    },
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gad981e2938202d76cc136ae50bca6bc0733513011c92e6ba609f9211d8f13f069612ae6836ee6daf4859390cd57b03abb29761af95924ad1fa18026e979a6d8d_640.jpg",
+    "year": 2022,
+    "price": 30,
+    "description": "Charming craftsman bungalow with a front porch and mature trees.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-06-28T01:35:07.113Z",
+    "updatedAt": "2023-07-20T02:10:43.910Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e573e7fb410121c79ff"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g495f4c82aa9ba914c5bbb6c2b883be3ada1da1f9ddbc7d308dccf40e2b411396fe1092f3a51c659d3609def98f6e31903b2d7b75f82d7f1218eab87772d93bc5_640.jpg",
+    "year": 2009,
+    "price": 150000,
+    "description": "Sleek modernist home with minimalist design and panoramic windows.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2023-06-28T02:20:46.152Z",
+    "updatedAt": "2023-07-20T02:14:18.817Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5788d877c63636c2d7"
+    },
+    "bedrooms": 1,
+    "bathrooms": 0.5,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g17fb599a5e8ddfb042aaefe94237ffa9923c01b51f8a370063f00375dbe5e4088b91932e2e76e86d97ed8e9881ad54bcc35270812ef4bbd1e89730aad2ec6615_640.jpg",
+    "year": 1900,
+    "price": 20,
+    "description": "Victorian gem with ornate woodwork and a wrap-around porch.",
+    "creatorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    },
+    "createdAt": "2023-07-19T22:10:37.120Z",
+    "updatedAt": "2023-07-19T22:46:21.171Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576271909e4813dd10"
+    },
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gcc6647d4f5c28050f73bd8326bccb2bacd86c65638a45d73b5bbad1d8d76f3f51a0ce6398bc96514babc44c4fd297fb9939590d547b26a789db6f4673dc7635d_640.jpg",
+    "year": 2020,
+    "price": 2000000,
+    "description": "Rural farmhouse with barns and acres of pasture for animals.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-07-19T22:25:16.518Z",
+    "updatedAt": "2023-07-19T22:25:16.518Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a7d24aad291c77f6"
+    },
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "levels": 20,
+    "imgUrl": "https://pixabay.com/get/g113cd28f11c546917b526f344ba88c52b9e04ff1e1c5c532367647232e4ab94e7a6037691c7993a0a2f9abfd075de7035bd3e6e286b80f50e060c4a024c55e18_640.jpg",
+    "year": 1980,
+    "price": 1,
+    "description": "Urban oasis with a rooftop garden and eco-friendly features.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-07-19T22:28:44.199Z",
+    "updatedAt": "2023-07-19T22:28:44.199Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5747c6fb6c65ee5420"
+    },
+    "bedrooms": 13,
+    "bathrooms": 13,
+    "levels": 13,
+    "imgUrl": "https://pixabay.com/get/gb5b07b9aa09e84c2efc3c30745d085d7fdaf06427085fd6623616aa3237674d492219f4267da2f11e14e5a91606fddc3fbd71a67766eab2dd1d47f903a2df2ec_640.jpg",
+    "year": 1300,
+    "price": 13666,
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-07-19T22:34:38.270Z",
+    "updatedAt": "2023-07-19T22:49:03.782Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e572104eeaa6cae4441"
+    },
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g99794da8284ba6da609aeb24dd7f925864a84dbab2c49d5a4f6a0a4fecae88256037280629fe420d371b48e926df2ca6d0f057d9eb2ce8b38df05c0b3611a8e8_640.jpg",
+    "year": 2020,
+    "price": 250000,
+    "description": "Luxurious penthouse with a private elevator and city skyline views.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2023-07-19T22:36:59.417Z",
+    "updatedAt": "2023-07-19T22:36:59.417Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57de544762219acef4"
+    },
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gfa1aeee709b6a52b99372036a36ff617abeaafe0e85d7b0064b402e96f037eb5ac4f06cb8dc1567342118d97a36778df5bb7d761393d687ad69f2d28d8846da4_640.jpg",
+    "year": 2023,
+    "price": 499999,
+    "description": "French country estate with a vineyard and outdoor dining area.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2023-07-19T22:37:21.103Z",
+    "updatedAt": "2023-07-19T22:37:21.103Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d7fbb3c68b2dfd71"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gf7f479b1f94803439dc58d7e3f2df69cf2e0ff9a2f9fcb50c48684ed52af9d06b6b59ca939fd0340780109d1de518b6c6d73a0b29b6dcd6a6afd6ca65ba4d8d0_640.jpg",
+    "year": 2023,
+    "price": 460000,
+    "description": "Contemporary townhome with a private courtyard and sleek finishes.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-07-19T22:40:45.262Z",
+    "updatedAt": "2023-07-19T22:40:45.262Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576a034b473258fa1c"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g244eb787ea767952444ce670b65236adce2059ef5078dd4f1972a6f1e7c6beeb88adf618845763e7b18d50827e258c828fc40c01e98a300f388ac862fbf73a0e_640.jpg",
+    "year": 2004,
+    "price": 210000,
+    "description": "Classic Cape Cod home with coastal charm and a white picket fence.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2023-07-19T22:45:38.240Z",
+    "updatedAt": "2023-07-19T22:45:38.240Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e570d0e050a853f4929"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g32d94b308e895445f45bbcb83418e6a9aaf52eab8d76c45aaf66316180d21d81577b277f2aa4d6f187fa12249140611ff48feab40b3526f59662e47038d520f9_640.jpg",
+    "year": 2002,
+    "price": 2,
+    "description": "Modernist masterpiece with a cantilevered design and open living spaces.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-07-19T22:50:25.528Z",
+    "updatedAt": "2023-07-19T22:50:25.528Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bc3fb4c85cf34f31"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g548a30078ac41abf1c7cbeec41d2c4988cf8bac7a6c52fe2b49ba8b5f7ab93ead378767acd4514c5c93521087a4fbc76d32a1c60c962f6d35701deb641e71c38_640.jpg",
+    "year": 1997,
+    "price": 600000,
+    "description": "Charming cottage with a picket fence and flower-filled gardens.",
+    "creatorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    },
+    "createdAt": "2023-07-19T22:50:45.814Z",
+    "updatedAt": "2023-07-19T22:50:45.814Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57cd39d8591db5f235"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g9b24167dbfa7e21d2849bbe9693a4204cd1a3d459dae3599fa0e443e2f423ad295dbb0b731f306811fe7916739787db986beb31fd6450599fe37bec81234b8dc_640.jpg",
+    "year": 1993,
+    "price": 520000,
+    "description": "Sleek urban loft with industrial-chic design and exposed brick walls.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-07-19T22:51:34.359Z",
+    "updatedAt": "2023-07-19T22:51:34.359Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a9fb8763f90ea013"
+    },
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gd7d7dc47f3acbf804682096a7b157f8846ec1d920b75d77564d8f5055b7372cdba571061e5e28fd879522fdb0f7b0d45dff291ff136029aa6ebe1a0474fe4a32_640.jpg",
+    "year": 2002,
+    "price": 1000000,
+    "description": "Elegant colonial revival home with a wrap-around porch and formal gardens.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-07-19T22:53:00.282Z",
+    "updatedAt": "2023-07-19T22:53:00.282Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ad0b6847b6292c94"
+    },
+    "bedrooms": 7,
+    "bathrooms": 5,
+    "levels": 5,
+    "imgUrl": "https://pixabay.com/get/g61f7ab041c3afb89d32554f9e24abdaa172edac19d3f5e631e8e1445e57a8263f72a868a6dbb8079f8a77be0c6f3fdc4fc93b45cbb8e0d1c4df5e04b78d55bda_640.jpg",
+    "year": 1998,
+    "price": 529088,
+    "description": "Quaint cabin in the woods with a fire pit and deck for outdoor living.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-07-19T23:08:18.394Z",
+    "updatedAt": "2023-07-20T04:45:01.522Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57beb7a8886a783658"
+    },
+    "bedrooms": 4,
+    "bathrooms": 0,
+    "levels": 4,
+    "imgUrl": "https://pixabay.com/get/gb15a7a548c3bf41f6d8bf0d9c94d7f254ee6427f6e2f4cd314f07c2b172a62fc53674e284224f8f9b4a316b27a9d6c3d6c6422cd18f3a6c68be516104f5159ad_640.jpg",
+    "year": 2023,
+    "price": 40,
+    "description": "Tropical paradise with a pool, palm trees, and outdoor cabana.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2023-07-20T04:07:02.180Z",
+    "updatedAt": "2023-07-20T17:09:06.844Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a25f6c9efed58f71"
+    },
+    "bedrooms": 9,
+    "bathrooms": 0,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gffac9c4ac5023d1182948a510c48bcde2fd4c1972e0c29799540c4bbf6183ee3afa86ff3bbda1f00bdbc7547268b2b60_640.jpg",
+    "year": 2020,
+    "price": 400,
+    "description": "Stylish urban apartment with city views and modern amenities.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2023-07-20T17:03:56.530Z",
+    "updatedAt": "2023-07-20T17:06:22.559Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57f72fb4817a62423c"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g32e52be3c746ffae3f93cc40de3ccd8794bc9923ae0ed7134b7b9275a95fc80d02104cc53b983e918dd2496f4bccec7a528d570ff005237421260e091f4a0248_640.jpg",
+    "year": 1232,
+    "price": 1232,
+    "description": "Mountain retreat with rustic charm and a stone fireplace.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-08-29T22:41:44.419Z",
+    "updatedAt": "2023-08-29T22:41:44.419Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ed9fc83fd02ebc05"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 5,
+    "imgUrl": "https://pixabay.com/get/ge3412727d37d15385ab39c0dc56d84bfe40757d41296003c47a93385de10afbce1b4465d222bc92c5c2168d2155e1d7d453f0bea2e36f90d43a19ee08bfae54b_640.jpg",
+    "year": 2000,
+    "price": 50000,
+    "description": "Classic Tudor home with a courtyard and original details.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-08-29T22:42:30.912Z",
+    "updatedAt": "2023-08-29T22:50:41.177Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e574473e147f65471fd"
+    },
+    "bedrooms": 9,
+    "bathrooms": 7,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gd37f47bf95d788c1ecfbeeda63b112bdb984d3e093e4da92901f7aedaf1b8b9fd4ce458adecf1fb191b5b8d3ccc3d4cb2f88fd16b084dfa97061a81775162a15_640.jpg",
+    "year": 1657,
+    "price": 400000,
+    "description": "Secluded farmhouse with acres of land and panoramic views.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-08-29T22:46:34.855Z",
+    "updatedAt": "2023-08-29T22:46:34.855Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ac4b0ab68aaf53c8"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gf1926bdb3567def516966841e3d209f50f02c562021baf0257a444b5bf8af49e21ce62bcb2593f7f0d108a053f03d31a68e7d9487b60fb3ff7579b5495693a2b_640.jpg",
+    "year": 2011,
+    "price": 123321,
+    "description": "Chic city condo with a balcony and skyline vistas.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-08-30T15:20:55.703Z",
+    "updatedAt": "2023-08-30T15:20:55.703Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57461fc9b9593ad849"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gf947e70af8a0dcaf9f00165528c0eb9818ed270a9c78f775c2de9ce90a371f5e3de132b569dcc08c5cf67610a2e73d648dc5552425fdf5655c2fe1ba841b1089_640.jpg",
+    "year": 1977,
+    "price": 150000,
+    "description": "Historic Victorian with a turret and landscaped gardens.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-08-30T16:18:31.972Z",
+    "updatedAt": "2023-08-30T16:18:31.972Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ad9d3e04df29dad1"
+    },
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "levels": 50,
+    "imgUrl": "https://pixabay.com/get/g2da532ad4b37916eeb188924d058a9a229107db28deff168ad7c76525e3acbaeb5a10e834cb9077c4f416b257e5c98efd54088c01b83974682da119cda0be617_640.jpg",
+    "year": 2000,
+    "price": 100000,
+    "description": "Modern beachfront property with direct access to the beach and ocean views.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-09-13T20:23:35.603Z",
+    "updatedAt": "2023-09-13T20:23:35.603Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57cd529120163bcdfc"
+    },
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "levels": 9,
+    "imgUrl": "https://pixabay.com/get/g9e7d3587b0d422ac13bf86a5839db30dab17b9c57ce173215884dcfd5b165978d713b7a577508f1b39288bb44f5c294a7d6373c9438a2af0027dd5fc7890af93_640.jpg",
+    "year": 4444,
+    "price": 4443223,
+    "description": "Elegant Georgian-style mansion with a grand staircase and ballroom.",
+    "creatorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    },
+    "createdAt": "2023-09-13T20:55:18.200Z",
+    "updatedAt": "2023-09-13T20:55:18.200Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57dfb538858b88357e"
+    },
+    "bedrooms": 4,
+    "bathrooms": 9,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gc89c7796675987ddc3275668f8498942a649b475bf4ff6b1e2e60104ab114cc56a4d8fd9b06b1eac7b72903eeb8a9c75ac32155b9981581d97cbeb5bac8a984b_640.jpg",
+    "year": 1325,
+    "price": 500000,
+    "description": "Cozy log cabin with a creek and wooded surroundings.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "2023-09-13T20:59:54.415Z",
+    "updatedAt": "2023-09-13T20:59:54.415Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575a22d8f0fcb9501b"
+    },
+    "bedrooms": 5,
+    "bathrooms": 6,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/geedc812d27cf459bd733b4d1d0b51317a31c43f54f601b7b1fd97c6c429fa2d4cd8edb081f7a388b819b49237d6db7aceaebe67fb185a2f67a8e1e07a59400d0_640.jpg",
+    "year": 1965,
+    "price": 678000,
+    "description": "Contemporary townhouse with rooftop living space and city views.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-09-13T21:06:01.985Z",
+    "updatedAt": "2023-09-13T21:06:01.985Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5762f9a28d7aba9421"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/ga8b4706e043dbe5f590ef3c2e5a559202d321dffad75965b4e4c2a69f3eb09226423cf7755a75acc66b3d65e677b1846f4386a2b1504081bfdc7f5e7e3967517_640.jpg",
+    "year": 1971,
+    "price": 76000,
+    "description": "Luxurious estate with a pool, tennis court, and guest house.",
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-09-13T21:25:25.849Z",
+    "updatedAt": "2023-09-13T21:25:25.849Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57812a5d6939c4b7a7"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gaba97debe3eb63eda4e91016aa146393dd0b6703b60bdea714e4d231ab187531ec68c8c4ee55f464b1b877f2be973967aa0d30f0354d689219ee0caff4ed77f3_640.jpg",
+    "year": 2000,
+    "price": 15,
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2023-09-13T22:09:43.482Z",
+    "updatedAt": "2023-09-13T22:09:43.482Z",
+    "description": "Colonial revival gem with a sunroom and formal dining room."
+  },
+  {
+    "_id": {
+      "$oid": "66142e573d8901d715054146"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g65879fce43d04c704aa6961aeba49d9b332bd61a3e1a1ff80e810087e1891838e2c178911c232cea216f6b6051dc7be7f7f45b9e6d1473d38676e671913b8c50_640.jpg",
+    "year": 2000,
+    "price": 100,
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-09-13T22:10:29.870Z",
+    "updatedAt": "2023-09-13T22:10:29.870Z",
+    "description": "Sleek modern home with open living spaces and floor-to-ceiling windows."
+  },
+  {
+    "_id": {
+      "$oid": "66142e578c52eb10bbe5da28"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g48aba225876dff561a57a803366e7ccaebfc3524efbdb3a5ed4e89c37981a52564d26d1dbb74ee8837bb498b4ec9fd28e90eea85ab386dc8e0413424c631df78_640.jpg",
+    "year": 2000,
+    "price": 200,
+    "description": "Charming coastal cottage with ocean views and beach access.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2023-09-13T22:13:27.850Z",
+    "updatedAt": "2023-09-13T22:13:27.850Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c7e822982211f36c"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g7160899a4ff75cd251dd046681248438b649337ad0f793a6056fbf259924fedb194c80efdb4d542af831ff03412b4c5d_640.jpg",
+    "year": 2000,
+    "price": 200,
+    "description": "Mountain chalet with a hot tub and panoramic alpine vistas.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2023-09-13T22:15:45.925Z",
+    "updatedAt": "2023-09-13T22:15:45.925Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5799fd210305edaf8b"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gb8d8f6effc24907b6bc0f537734fd53d2f6e71279ae9b8d7503b134df2b087e58a0be83484ae2028f3f0ad49daeb047b5c84285ba0142528782678c1bc88f5b4_640.jpg",
+    "year": 345,
+    "price": 3,
+    "description": "Stylish urban condo with skyline views and modern amenities.",
+    "creatorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    },
+    "createdAt": "2023-09-13T22:21:53.793Z",
+    "updatedAt": "2023-09-13T22:21:53.793Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e570ef7e8ea91a7f5a9"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "levels": 34,
+    "imgUrl": "https://pixabay.com/get/g977c06485aaf4102302ee02dac2f087a896bb600997627b8c84b61c3d0b02b39127c8ddc172867c36f040960bb3d9950_640.jpg",
+    "year": 342,
+    "price": 34,
+    "description": "Historic brownstone with original details and modern updates.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-09-13T22:23:48.326Z",
+    "updatedAt": "2023-09-13T22:23:48.326Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5748848ac77df5878b"
+    },
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g3f636fde319027b9d30c7d683498ac94eb500a9eaa55525dae5eaf2540dee99aaf5deb823b35b37f0f6435f668ca9ce31ef839a44dc06a8a18e99f12af6301d1_640.jpg",
+    "year": 2017,
+    "price": 123456,
+    "description": "Contemporary waterfront property with a private dock and boat lift.",
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-09-13T22:23:51.574Z",
+    "updatedAt": "2023-09-13T22:23:51.574Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e574488573c8bbac6ac"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g0d2e75aefaf3705c2bd0a1ce06ffd43cf106d9d587dbd9bcbb098333981fc44d969324e59d9230db656c5b2dd11ce694f9cac8f1fb528b007897f57bfa1f0e2a_640.jpg",
+    "year": 2000,
+    "price": 150000,
+    "description": "Classic ranch-style home with a large backyard and patio.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-09-13T22:29:23.688Z",
+    "updatedAt": "2023-09-13T22:29:23.688Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576fb20c0aed870a04"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gbeeb5f29574b44474a87825be6872822b96552dda2396daff31a91ea11f5ddac178977a80feb9234d1376e22742e6d1c474505ee39af2f92e927362957856e28_640.jpg",
+    "year": 42,
+    "price": 567895,
+    "description": "European-inspired villa with terraced gardens and a wine cellar.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2023-09-13T22:30:18.795Z",
+    "updatedAt": "2023-09-13T22:30:18.795Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e574afe9bbd00cfccec"
+    },
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "levels": 45,
+    "imgUrl": "https://pixabay.com/get/gb34b88a12dee663621e767405f5c03522a604a880b729b761b51f5ad060f020a76d333dea5542b871ff87e3a38f9e6a1d079e0cafbad06268a658e4e6684b1cc_640.jpg",
+    "year": 332,
+    "price": 45,
+    "description": "Spacious family home with a backyard pool and outdoor entertaining area.",
+    "creatorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "createdAt": "2023-09-13T22:30:45.131Z",
+    "updatedAt": "2023-09-13T22:30:45.131Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e579572af715107499c"
+    },
+    "bedrooms": 3,
+    "bathrooms": 6,
+    "levels": 5,
+    "imgUrl": "https://pixabay.com/get/ge7d2a2967ca25b2e9bb2c7f7811f45a8a8f8b676194a9168abea852c7c685d0f1c718b7082fc6fd5637d81d7104ab7d349f3daef76b915a3bb0b6293b5c85731_640.jpg",
+    "year": 1900,
+    "price": 50000000,
+    "description": "Charming craftsman bungalow with a front porch and mature trees.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2023-09-13T22:31:11.530Z",
+    "updatedAt": "2023-09-13T22:31:11.530Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5741f80b7158646b3e"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gc790ed33961cc0cb48a5ee10494b1824df54294e0c19ab9d3e16a81d512b7d1ab2cb2d955d1191937dbd54ac9302e872664983469feffcf657b44ca9be5743a0_640.jpg",
+    "year": 1200,
+    "price": 750000,
+    "description": "Sleek modernist home with minimalist design and panoramic windows.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-09-13T22:33:20.505Z",
+    "updatedAt": "2023-09-13T22:33:20.505Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57e238c0748ee20877"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gf543cb10b744fc7d3a2202e5d947a3971cee6fbfcbdd8da472f5062104978fa34354c0c2505768aeb0838193b94fb6f477ebbfbcde634b857484be94e84abf8b_640.jpg",
+    "year": 222,
+    "price": 23,
+    "description": "Victorian gem with ornate woodwork and a wrap-around porch.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-09-13T22:33:51.679Z",
+    "updatedAt": "2023-09-13T22:33:51.679Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e573ba97a5be78b2c33"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/ge652eea35c683d80000620461cdd9f97acb7739c574aaebe8903d4c07bd0f21a4a4234b23c4ca36165e222904ab9450bf4a779c99d5e57078fc7d8889137d85c_640.jpg",
+    "year": 1955,
+    "price": 1000000,
+    "description": "Rural farmhouse with barns and acres of pasture for animals.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-09-13T22:34:05.189Z",
+    "updatedAt": "2023-09-13T22:34:05.189Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c2183de66de0b72a"
+    },
+    "bedrooms": 9,
+    "bathrooms": 9,
+    "levels": 9,
+    "imgUrl": "https://pixabay.com/get/gb735b11d513b421cf79968c8c7f5a9f628c3343b8e97c5cf0c19ab551dc41529bfe6cd5fe55677d2b6e7bcbf76e539ca51ca451ddf2fd5c97af55f8b4cbd81e5_640.jpg",
+    "year": 89898,
+    "price": 89898989898899,
+    "description": "Urban oasis with a rooftop garden and eco-friendly features.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2023-09-13T22:40:55.272Z",
+    "updatedAt": "2023-09-13T22:40:55.272Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575c49e1388785a1ca"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 12,
+    "imgUrl": "https://pixabay.com/get/g4fe7f5cf1a06cec15b6749dd606b8fba0fae5a4d28a849238cad857a79f9145658ca0936a0bc6f1058cd4e29668cd381e3a8bad9faaa56f907013886db99238a_640.jpg",
+    "year": 2002,
+    "price": 12,
+    "description": "Cozy A-frame cabin with mountain views and a wood-burning stove.",
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-09-13T22:42:53.040Z",
+    "updatedAt": "2023-09-13T22:42:53.040Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5756c0dab4d47508f5"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gb9aeabcb33b3766a5361dd2d5a29d0c743e2296f078c16c21dd2dc685582033f074c09e1b35301c03c1a2e6d32be5dc4fc8e7f97e16dd53a76e07f5014c78dfa_640.jpg",
+    "year": 2022,
+    "price": 111,
+    "description": "Luxurious penthouse with a private elevator and city skyline views.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2023-09-13T23:01:58.443Z",
+    "updatedAt": "2023-09-13T23:01:58.443Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e579e2f04c90353837a"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g16c64ee72de0f9133d5d62c4160909e602acb34857e5f9812f19a6821c63d14f266b3f6f83014064615831ad0c5d430b5ed6749e232ac2c9f8c451fda383531d_640.jpg",
+    "year": 1969,
+    "price": 65432,
+    "description": "French country estate with a vineyard and outdoor dining area.",
+    "creatorId": {
+      "$oid": "6615af316e246bc9b496d6b2"
+    },
+    "createdAt": "2023-09-14T04:31:26.488Z",
+    "updatedAt": "2023-09-14T04:31:26.488Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d044982eb6eff7d0"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gf0e7da83cca7fd8932d523eb6db61ac0d60da705a379a1a9d68e9037307f6465dc0b7221004831e5131377f680ce422f2aabffece13f45c1a017abd377a3e49a_640.jpg",
+    "year": 2002,
+    "price": 123123,
+    "description": "Contemporary townhome with a private courtyard and sleek finishes.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-09-16T10:46:48.752Z",
+    "updatedAt": "2023-09-16T10:46:48.752Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576f5804f9f30b56a0"
+    },
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gb56971350d2e347e6d172afdff42268967919e11034e7771475d71dbae94e807ee63f6678c0b1b4789bffa47ee11bb6cdf1dbab83671ce9b5312cee6fa6745c2_640.jpg",
+    "year": 1991,
+    "price": 33133,
+    "description": "Classic Cape Cod home with coastal charm and a white picket fence.",
+    "creatorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    },
+    "createdAt": "2023-10-10T21:30:04.619Z",
+    "updatedAt": "2023-10-10T21:30:04.619Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57dc68224ccba031a5"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g5f7a5995d54a4fe35697dedb3a80b6ca50aef14b83863e6a6106d0cb188ad44bbeab542196731bb0db378dd1c8c9f603012897d80184f4448bb5f0db292b8439_640.jpg",
+    "year": 2020,
+    "price": 2,
+    "description": "Modernist masterpiece with a cantilevered design and open living spaces.",
+    "creatorId": {
+      "$oid": "6615af313bd257f89c48118e"
+    },
+    "createdAt": "2023-10-10T21:31:00.052Z",
+    "updatedAt": "2023-10-10T21:31:00.052Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d12375f082c9366f"
+    },
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g286e709f65f70627a0b989f7fc80632f10b70a19977a9ea6f2b529f41b1b8cd1fe95b74229a1a7fa4513bdad369bf77ecbe4f6fa53a405aa8a4db0355cbee4cf_640.jpg",
+    "year": 2024,
+    "price": 11111,
+    "description": "Charming cottage with a picket fence and flower-filled gardens.",
+    "creatorId": {
+      "$oid": "6615af313b8dfc994a0e44b9"
+    },
+    "createdAt": "2023-10-10T21:39:39.250Z",
+    "updatedAt": "2023-10-10T21:39:39.250Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a81900346155c402"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/ge5989e3eeaa7fcc1a9e2ce0c47f295fb8e3d6c133e340c40749c24a03c99a351c5b9949fdd2dba65251fde38939c03b788dd92d53313f1813d927d792c240ffe_640.jpg",
+    "year": 2022,
+    "price": 300000,
+    "description": "Sleek urban loft with industrial-chic design and exposed brick walls.",
+    "creatorId": {
+      "$oid": "6615af31934e4e7bc5bb9bef"
+    },
+    "createdAt": "2023-10-10T21:42:14.151Z",
+    "updatedAt": "2023-10-10T21:42:14.151Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57454347bc0804da68"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/ga8f5763beefc2edbdc5263cbe7796be0cd522073d45a327756ea8d645d6db2950381696d9e44094cd851674f8c2261fa206c7d03fbe7c5c9d877a71f391b517e_640.jpg",
+    "year": 1995,
+    "price": 350000,
+    "description": "Elegant colonial revival home with a wrap-around porch and formal gardens.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-10-10T21:45:22.233Z",
+    "updatedAt": "2023-10-10T21:45:22.233Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57e1edfe2d14cc473a"
+    },
+    "bedrooms": 10,
+    "bathrooms": 10,
+    "levels": 11,
+    "imgUrl": "https://pixabay.com/get/g66a24fd390100274a546bb6b0e88699dafa9a9596ad3a209d76362ec8f90e12bf3c01fe350754b530febe8e3eb44e34c_640.jpg",
+    "year": 1900,
+    "price": 123456,
+    "description": "Quaint cabin in the woods with a fire pit and deck for outdoor living.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-10-10T21:46:20.064Z",
+    "updatedAt": "2023-10-10T21:46:20.064Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57619b494df58a89a5"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g33793358be2fa6591ae827c1ad2a89766fff7073a8b7ffbd3ece5a5951d150a6ac3cb49d05f1ae99850fea59f5d32f78_640.jpg",
+    "year": 1999,
+    "price": 200000,
+    "description": "Tropical paradise with a pool, palm trees, and outdoor cabana.",
+    "creatorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    },
+    "createdAt": "2023-10-10T21:47:11.392Z",
+    "updatedAt": "2023-10-10T21:47:11.392Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5727773a4f553c891f"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g513cd95214645e1080d291f21cf038d1b22854837e821046b536f6bd09f8abaeb1be39f93da58c6c1be9825a750e8e42f0cc3728ed5f5794e478d18ab89cb2bc_640.jpg",
+    "year": 2015,
+    "price": 15,
+    "description": "Stylish urban apartment with city views and modern amenities.",
+    "creatorId": {
+      "$oid": "6615af3138fa4b9dafbd8bf0"
+    },
+    "createdAt": "2023-10-10T21:47:48.039Z",
+    "updatedAt": "2023-10-10T21:47:48.039Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d3f597e2edc8ed1f"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g2b3c1490eae51a8f3bd59b52357b5b2fe1cae3cd9cbc7f905e30f61ac3c5bc2eb62caa72179a13322a6ced9289be76f0_640.jpg",
+    "year": 2011,
+    "price": 350000000,
+    "description": "Mountain retreat with rustic charm and a stone fireplace.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-10-10T21:48:34.363Z",
+    "updatedAt": "2023-10-10T21:48:34.363Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5786763ac1ecb1518f"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gc46185f5302e2cf34b9c27e261bae0398f400bd614a274ff6f1414f0ab144c199cc6d8924d1edacd6b27a766ab09bde7b8b13e42517be6fc93afda94e50ff423_640.jpg",
+    "year": 2011,
+    "price": 350,
+    "description": "Classic Tudor home with a courtyard and original details.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-10-10T21:49:20.549Z",
+    "updatedAt": "2023-10-10T21:49:20.549Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c82a4a8cd7281085"
+    },
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g6d85393da6b9b937476bcfd29e9ca28d659e09d3c204734cf488d16c039da17a6d07d83e6457bcca9068cf344013b3452b9205ca93c9f3b2721a0699aa37a3fb_640.jpg",
+    "year": 1999,
+    "price": 100000,
+    "description": "Secluded farmhouse with acres of land and panoramic views.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-10-10T21:50:15.548Z",
+    "updatedAt": "2023-10-10T21:50:15.548Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575a395a2e77ec1f04"
+    },
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g3de06a1409eeb65b7f1b973554723b0abe179770c2b63d33b25ddfb4d7395607463b293cd207e213ea25a5d78ee8465656478c3f17f980b1b83776b7d39116d4_640.jpg",
+    "year": 1999,
+    "price": 100000,
+    "description": "Chic city condo with a balcony and skyline vistas.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "2023-10-10T21:50:43.977Z",
+    "updatedAt": "2023-10-10T21:50:43.977Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57f4cb7861b1c2987a"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/ge9abdb0e327b2ea6d5668c2d3e2a37664045802d19b4f668fab294dec62e365e479b0db01f776cbcc7c24ef494332ebed533d6c47ed040af179faf2ce94cae89_640.jpg",
+    "year": 2001,
+    "price": 200000,
+    "description": "Historic Victorian with a turret and landscaped gardens.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-10-10T21:51:21.547Z",
+    "updatedAt": "2023-10-10T21:51:21.547Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57182befd5bcf826cf"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gb5f2a0f7ab310d1e79576f251539c5cc7c012be91b4f201bac84dbd77cac22e083b93a80302d39fabf1c2bc10064b59b0f2443ae1c9ad72a286d7568ad39da4b_640.jpg",
+    "year": 2004,
+    "price": 25467,
+    "description": "Modern beachfront property with direct access to the beach and ocean views.",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "2023-10-10T21:59:52.814Z",
+    "updatedAt": "2023-10-10T21:59:52.814Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57394279283a9b64e2"
+    },
+    "bedrooms": 1,
+    "bathrooms": 7,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g37b9b341d1fc013d9cbe30d2efc95536c0b9e7a574e927338d35bf2d24c5bbd8d464ec20811c5fb8e7b30243823cf506c7a16d57d3adf648aff0c401c34a4052_640.jpg",
+    "year": 2001,
+    "price": 7,
+    "description": "Elegant Georgian-style mansion with a grand staircase and ballroom.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2023-10-10T22:01:02.321Z",
+    "updatedAt": "2023-10-10T22:01:02.321Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d8d68a7129c2c790"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g7095a5e4d91a6ebc1ee21fb44b99489325c33ac9ad456f3fa2cc177b62aeaf199036c65d84d7df2a75dc4f2315c87c26675706ffe4216404bf0f1647b4f7820c_640.jpg",
+    "year": 2001,
+    "price": 99999,
+    "description": "Cozy log cabin with a creek and wooded surroundings.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-10-10T22:01:12.701Z",
+    "updatedAt": "2023-10-10T22:01:12.701Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bf8d89de3257968b"
+    },
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gb731562f107fdcf6a67fd98f8136d88e13c457fd56b793a8cdf52ba531c003c0ddab350bbe2e893bf03c1c78e54b140b02a02426b84d95660f85326daa1e1966_640.jpg",
+    "year": 2001,
+    "price": 20,
+    "description": "Contemporary townhouse with rooftop living space and city views.",
+    "creatorId": {
+      "$oid": "6615af313bd257f89c48118e"
+    },
+    "createdAt": "2023-10-10T22:02:17.917Z",
+    "updatedAt": "2023-10-10T22:02:17.917Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5761c57124453be3ce"
+    },
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g252fe05cf9cfd68253495c9252ab73926fbed8c2a9acd3bb6af11bf7a5b96be329ae1e7a7f6621b37c01dfdee32b30667b927450f094b81a3c522c67baefddd6_640.jpg",
+    "year": 1903,
+    "price": 50000,
+    "description": "Luxurious estate with a pool, tennis court, and guest house.",
+    "creatorId": {
+      "$oid": "6615af31955d2c7d5f5b32c6"
+    },
+    "createdAt": "2023-10-10T22:34:12.816Z",
+    "updatedAt": "2023-10-10T22:34:12.816Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e579d7ba0511f8fda7b"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gb468c6732b0b4b2ac28fc7d085aa5ca9ebbe1692fa52482b897ef416c5b5d798bf9ce8f68901831b1376c2e83b01b45d06ad4552743206d81f5ea0c8bf40ec85_640.jpg",
+    "year": 2020,
+    "price": 500000,
+    "description": "Colonial revival gem with a sunroom and formal dining room.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-10-10T22:34:49.479Z",
+    "updatedAt": "2023-10-10T22:34:49.479Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5764e86a532570b028"
+    },
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "levels": 555,
+    "imgUrl": "https://pixabay.com/get/g3f922ed0c905eb0511ff1ea893d6f65eb6b15fadd9bb426fce1e55a2de5bd52c3a1c0f007433fdc5593a95ca67de08e055ddf620e1250666757dded57fd2e086_640.jpg",
+    "year": 5555,
+    "price": 5555555,
+    "description": "Sleek modern home with open living spaces and floor-to-ceiling windows.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2023-10-10T22:36:35.180Z",
+    "updatedAt": "2023-10-10T22:36:35.180Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a1cfa5d0188c4ee4"
+    },
+    "bedrooms": 10,
+    "bathrooms": 8,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/ge40f69b55d4835f672aeb81c729b83ff56be72beddbac9fe0a8cf0bef8c26126b9e3ea30bfe99ccff818697d9efb758f47ef6bea24332b9656add4516df41c5f_640.jpg",
+    "year": 2000,
+    "price": 400000,
+    "description": "Charming coastal cottage with ocean views and beach access.",
+    "creatorId": {
+      "$oid": "6615af3176f93ec03623a2f6"
+    },
+    "createdAt": "2023-10-10T22:37:35.849Z",
+    "updatedAt": "2023-10-10T22:37:35.849Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e577656c7622c2a87f6"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gd0612c960f812d1278d1f323a4f2fd95766ffcef2dad96611773ffccb081c21517b0de5bb49670a00797db487ff8290d_640.jpg",
+    "year": 1899,
+    "price": 50000,
+    "description": "Mountain chalet with a hot tub and panoramic alpine vistas.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-10-10T22:48:23.198Z",
+    "updatedAt": "2023-10-10T22:48:23.198Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57b3166043740cea14"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g82573f7bac98046ecf70e4b9731fcb6b85eebc11e79823ff551d28cd0c9ca00de5e588926d5e4686231c92805c3899394370faf0a1d3290e22cf913fe6898fb8_640.jpg",
+    "year": 2002,
+    "price": 400000,
+    "description": "Stylish urban condo with skyline views and modern amenities.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-10-10T22:51:11.127Z",
+    "updatedAt": "2023-10-10T22:51:11.127Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57765fd3b41b967fc5"
+    },
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g85c09fa3f97adb6f3b97ca588038c9ce0bbe33df42bbbd47528598c1636bafd6cdb4b9e33d71239c640b624225663068a67381f2826a6f17979726fe04cd9519_640.jpg",
+    "year": 2001,
+    "price": 5000000,
+    "description": "Historic brownstone with original details and modern updates.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-10-10T22:51:13.724Z",
+    "updatedAt": "2023-10-10T22:51:13.724Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576dd1528bdd3c64fa"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g4280000a8d84e725776c01777d7a37e68fc8ab529d420efadab3f341d3d824d4c3350cb54e161d970b6379e3ddfce08decfb2119e42bad7c20cce0dba62fc9cf_640.jpg",
+    "year": 1,
+    "price": 1,
+    "description": "Contemporary waterfront property with a private dock and boat lift.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-10-10T22:54:15.518Z",
+    "updatedAt": "2023-10-10T22:54:15.518Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d13babc1ab313513"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gb1bc50da675d9676eb6e10e4289e0a8464380db21456be7192c9853dc3057a0974168ff19343db190da01d6f85b68382a73b34056519b89eafd51cd7c0e34bf7_640.jpg",
+    "year": 2023,
+    "price": 2000000,
+    "description": "Classic ranch-style home with a large backyard and patio.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-10-10T23:00:21.746Z",
+    "updatedAt": "2023-10-10T23:00:21.746Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ea92e1311462eca1"
+    },
+    "bedrooms": 6,
+    "bathrooms": 6,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/ga17a18d3d06080545c5858d1b8c66166ad398439c90a77ed0a9cbdc083fe007a91eb1cecc7a6182c404110850752afd6_640.jpg",
+    "year": 1500,
+    "price": 1000000,
+    "description": "European-inspired villa with terraced gardens and a wine cellar.",
+    "creatorId": {
+      "$oid": "6615af317362770a35f5425f"
+    },
+    "createdAt": "2023-10-10T23:32:10.458Z",
+    "updatedAt": "2023-10-10T23:32:10.458Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e574339aeaa5ab2c78e"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g5563f1f56c87f4da8c08a748d994f662346761abe20d8baeedc4910a050c7514a61f2d37cec57bb1d39c74251133995409aaf80793876dab44312cae4d71c4e6_640.jpg",
+    "year": 2023,
+    "price": 2000000,
+    "description": "Spacious family home with a backyard pool and outdoor entertaining area.",
+    "creatorId": {
+      "$oid": "6615af3174bda64f01441c63"
+    },
+    "createdAt": "2023-10-11T00:14:05.101Z",
+    "updatedAt": "2023-10-11T00:14:05.101Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575f7d97bc582ae4ad"
+    },
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "levels": 4,
+    "imgUrl": "https://pixabay.com/get/g44df97f5c2753fbc4af8a2840fb1055481a282faddf0be8cb4b8253219f46aa7bba38e78f18a6b1422505e5c22b8e2edf5eb9eb19eab9e58a962fda2d4792ff6_640.jpg",
+    "year": 2024,
+    "price": 2000000,
+    "description": "Charming craftsman bungalow with a front porch and mature trees.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2023-10-11T04:49:48.852Z",
+    "updatedAt": "2023-10-11T04:49:48.852Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bcbc133421cb3af5"
+    },
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/gb1a7e2060c02713ded8d52fb74f7581bb535d7457f49b075d19258bb71724baeb5d4238e6cc8c2de11a5f191545aa2c6e7613b90c3669b228ed48fc85d77f240_640.jpg",
+    "year": 1967,
+    "price": 2314293,
+    "description": "Sleek modernist home with minimalist design and panoramic windows.",
+    "creatorId": {
+      "$oid": "6615af31a77d7cd5ca57ed31"
+    },
+    "createdAt": "2023-10-25T22:02:21.220Z",
+    "updatedAt": "2023-10-25T22:02:21.220Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e573d8247261ab81393"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/g2ac3175624a8f8272d9990167d5535dcbb223b732c788494b287cb6d2b8cf56a7ff8d4bf0df6898c4753680c965abe7659cb50f99a8bd2a72645c9660bfee0af_640.jpg",
+    "year": 2023,
+    "price": 1000000,
+    "description": "Victorian gem with ornate woodwork and a wrap-around porch.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2023-10-25T22:05:56.857Z",
+    "updatedAt": "2023-10-26T02:38:20.237Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57739380d2719c675a"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g07b452bb472d4124773dff45341a5414686f0649c277d0205c6a684143e1f54774fd28bcbd104fca2468ae1885da5fa3_640.jpg",
+    "year": 2024,
+    "price": 200000,
+    "description": "Rural farmhouse with barns and acres of pasture for animals.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2023-10-25T22:08:40.654Z",
+    "updatedAt": "2023-10-26T02:38:33.978Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57d61a1cd37ebb44c3"
+    },
+    "bedrooms": 10,
+    "bathrooms": 2,
+    "levels": 45,
+    "imgUrl": "https://pixabay.com/get/g4cbe1434c5f81ee497c6f49b876c3490137c8542c444d65e2246c2d1780d099bcd4892c17a57f1143b6ed5a61d610aa8b1e533fca78e40949864383cb16fa9e3_640.jpg",
+    "year": 45,
+    "price": 45,
+    "description": "Urban oasis with a rooftop garden and eco-friendly features.",
+    "creatorId": {
+      "$oid": "6615af3133fcec640d69c0f0"
+    },
+    "createdAt": "2023-10-25T22:32:03.926Z",
+    "updatedAt": "2023-10-25T22:32:03.926Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57893aef03b58d5dd7"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gdad8c57ec18e3452dfc5a651e5a933ba2a89a895afd521c440f68b96130d7714759da36121d922318c3a1650cd84089d5301eb5533240431d4db1463db8c2fc2_640.jpg",
+    "year": 2004,
+    "price": 9999999,
+    "description": "Cozy A-frame cabin with mountain views and a wood-burning stove.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-10-25T22:37:31.768Z",
+    "updatedAt": "2023-10-25T22:37:31.768Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5789c93c59a526804b"
+    },
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "levels": 0,
+    "imgUrl": "https://pixabay.com/get/gb7fb29f184150538a195f0c7d5b772c7a88ef7929c2ba97cc3c6d56ce0c0530495a68615958d7fc73077bb96cef0f8a54f595fa9aabba3f3e18d783a53aa318b_640.jpg",
+    "year": 2015,
+    "price": 3500000,
+    "description": "Luxurious penthouse with a private elevator and city skyline views.",
+    "creatorId": {
+      "$oid": "6615af3118b6519506ebd7e1"
+    },
+    "createdAt": "2023-10-25T22:37:33.985Z",
+    "updatedAt": "2023-10-25T22:37:33.985Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57450768441ad9bcf0"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/geee0e8b6267b2b0250ab903db59c0654db751bf399c1c0a75f0f64447eef1e77acce35fb4fc4825ba65bcc45bb59114e584d6ee5a819e56cf101a017e71ff23a_640.jpg",
+    "year": 2023,
+    "price": 20,
+    "description": "French country estate with a vineyard and outdoor dining area.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2023-10-25T22:41:50.706Z",
+    "updatedAt": "2023-10-25T22:41:50.706Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57eebc9f82b259bca6"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gaaa715632ba8dfb1c250e82f96b5d3100c6ec9501246ab8795faa0bd86593368b0c419cafcbf2504b200496aba976699_640.jpg",
+    "year": 2023,
+    "price": 2000000000,
+    "description": "Contemporary townhome with a private courtyard and sleek finishes.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2023-10-25T22:44:33.767Z",
+    "updatedAt": "2023-10-25T22:44:33.767Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576e6832e75dbd4350"
+    },
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "levels": 3,
+    "imgUrl": "https://pixabay.com/get/ga6171c30758938054b889965f8bc76d3f7f9e5d26609a9563b90af1b8ed883ca3305d51d0f82035a719dd3d6ca003b40_640.jpg",
+    "year": 2021,
+    "price": 890000,
+    "description": "Classic Cape Cod home with coastal charm and a white picket fence.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-10-25T23:04:18.412Z",
+    "updatedAt": "2023-10-25T23:04:18.412Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e577c1873e43e667754"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g04b1b8545e86eebc5064c79330a0a5ec6c19bfda6e6b661b1f483a8d46d6613653aa9426366822ad7494d0d3abbb0fd8_640.jpg",
+    "year": 1999,
+    "price": 11,
+    "creatorId": {
+      "$oid": "6615af31cf9425a6e85c8e6e"
+    },
+    "createdAt": "2023-10-26T00:09:51.622Z",
+    "updatedAt": "2023-10-26T00:09:51.622Z",
+    "description": "Modernist masterpiece with a cantilevered design and open living spaces."
+  },
+  {
+    "_id": {
+      "$oid": "66142e57af6bcaaf53e23b72"
+    },
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "levels": 4,
+    "imgUrl": "https://pixabay.com/get/g81b53b5d582b80ab1188167e89b7a0dac0b8683293e8f0e495d98c392b22d76d3b5d336a1cce0f9844f52368f40d7024b5c9d6cd59cd4f992339a8b836996c5d_640.jpg",
+    "year": 2024,
+    "price": 2000000,
+    "description": "Charming cottage with a picket fence and flower-filled gardens.",
+    "creatorId": {
+      "$oid": "6615af3167a1034b1d3eb273"
+    },
+    "createdAt": "2023-10-26T02:31:21.474Z",
+    "updatedAt": "2023-10-26T02:35:09.004Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57ac06c4d90c1b3f5c"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g63cf169c6626d2620b00242e9af23027be2d00f09dec6c65e9425071cf60c867aba53d05b1bd12032a1af62862b56237fe6344e9b25e6619662dab6090056ae8_640.jpg",
+    "year": 2016,
+    "price": 650000,
+    "description": "Sleek urban loft with industrial-chic design and exposed brick walls.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2023-12-12T22:27:59.116Z",
+    "updatedAt": "2023-12-12T22:27:59.116Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c72c0074f123b392"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "levels": 42069,
+    "imgUrl": "https://pixabay.com/get/gc475080f156782008dbb720226e7e9f687e371b8f854ad80ba0c38cebd934c6ba6e14ed7cf19af6b56cdf97854ea9ee45c1a68d7c0e6625bad3949a9d1577022_640.jpg",
+    "year": 2019,
+    "price": 2841,
+    "description": "Elegant colonial revival home with a wrap-around porch and formal gardens.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2023-12-12T23:04:56.725Z",
+    "updatedAt": "2023-12-12T23:04:56.725Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e572041c7200fe876a4"
+    },
+    "bedrooms": 7,
+    "bathrooms": 4,
+    "levels": 42069,
+    "imgUrl": "https://pixabay.com/get/gb9dd773241f590c7aa21c1096b186ddc87313bb66c821ce9f28a0e349873fcadf6ac2be557300fb120d6dbc1bea4865dc9f46cfe865f2cc0c596859ab0d8b12b_640.jpg",
+    "year": 2019,
+    "price": 2841,
+    "description": "Quaint cabin in the woods with a fire pit and deck for outdoor living.",
+    "creatorId": {
+      "$oid": "6615af318cd3d77a0e10457d"
+    },
+    "createdAt": "2023-12-12T23:21:18.060Z",
+    "updatedAt": "2023-12-12T23:21:18.060Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57eed339326ca336ac"
+    },
+    "bedrooms": 10,
+    "bathrooms": 10,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g9f5bf374535e7c98856687d0040ce98992b19c4dadcb3c30f8927d1f2288b63f7929c40a89329fcde1e8c1cf11b56ac44bd7e76b0e911ce71351ecf237310294_640.jpg",
+    "year": 2000,
+    "price": 738182,
+    "description": "Tropical paradise with a pool, palm trees, and outdoor cabana.",
+    "creatorId": {
+      "$oid": "6615af31b2a02d6c2a05be55"
+    },
+    "createdAt": "2024-01-10T23:43:16.308Z",
+    "updatedAt": "2024-01-10T23:43:16.308Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bb545f5c72247f2a"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g41987ab655b89c9e25134aef48cef894ad51bfbe3d9d99b867f89a156d43494354a4ecd683d74a346227489779995a354889f7516c8922dcbf560c33fa62d6f4_640.jpg",
+    "year": 2001,
+    "price": 200,
+    "description": "Stylish urban apartment with city views and modern amenities.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2024-01-10T23:58:40.228Z",
+    "updatedAt": "2024-01-10T23:58:40.228Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e576cd052b7d70379a1"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g21f56bdea2e6424274ddbf979b1949e3feb633c3ac73b2469e7abc001f95fabca1e6bce7756f9a63a60e665b648bfb462ace489e8d067eec8b60ea9a011b2fe2_640.jpg",
+    "year": 1,
+    "price": 1,
+    "description": "Mountain retreat with rustic charm and a stone fireplace.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2024-02-13T23:01:22.252Z",
+    "updatedAt": "2024-02-13T23:01:22.252Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bb67e9d54e752c4b"
+    },
+    "bedrooms": 3,
+    "bathrooms": 10,
+    "levels": 234,
+    "imgUrl": "https://pixabay.com/get/g0818e5ea170ada03b19646a1fbfbe845565fa41bba693bbae306ac23de835438d388c171be73eb5406c00502ad937afed742efd7ee5de2a3ff423546bd3fa08a_640.jpg",
+    "year": 45647,
+    "price": 867546,
+    "description": "Classic Tudor home with a courtyard and original details.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2024-02-13T23:26:31.116Z",
+    "updatedAt": "2024-02-13T23:26:31.116Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e578a99062ad7debc6b"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 5,
+    "imgUrl": "https://pixabay.com/get/g5c34f5698b21cf9c15c9fc3a45519f3d88ee0daaaaee205032159e0d0a0e67f29065c89f5f08eb9750a4e42d4b90669bc8660e1318fa6ed7446a5383f06c8e2e_640.jpg",
+    "year": 135,
+    "price": 1000000000,
+    "description": "Secluded farmhouse with acres of land and panoramic views.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2024-02-13T23:31:31.782Z",
+    "updatedAt": "2024-02-13T23:31:31.782Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5758cd1d098a961b44"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/ge001b0e2ee7693c28c6713bf50d03c19a8670a62676c74c9f409f3f47bc18861fbf4cf565affdb7455efde2b24ad4e9d5c4ba08aa10696b1fc7c022d3862032e_640.jpg",
+    "year": 847356,
+    "price": 622738983726,
+    "description": "Chic city condo with a balcony and skyline vistas.",
+    "creatorId": {
+      "$oid": "6615af3127c842b612f13f71"
+    },
+    "createdAt": "2024-02-13T23:33:40.215Z",
+    "updatedAt": "2024-02-13T23:33:40.215Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57a9498476a96fc461"
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g9af738376ba35c4e1a8f7c39043e6bff7d4c49a9540c8ecec31bc281e121442f0bce5202b35423609bce711da4477047e171bd19fdd7dc53d04fc4fca0810665_640.jpg",
+    "year": 847356,
+    "price": 622738926,
+    "description": "Historic Victorian with a turret and landscaped gardens.",
+    "creatorId": {
+      "$oid": "6615af319be0007ccd4b7f95"
+    },
+    "createdAt": "2024-02-13T23:34:38.348Z",
+    "updatedAt": "2024-02-13T23:34:38.348Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e571f5fe5f7a22cd912"
+    },
+    "bedrooms": 10,
+    "bathrooms": 10,
+    "levels": 10,
+    "imgUrl": "https://pixabay.com/get/gcf16b372678e91c8464c1be52d4905b41ce7c2397951d87e254a8a382f93b76df49e2e2afdb1a422c686f2297e49aa74117c0eb764736540e86da1efce0c000c_640.jpg",
+    "year": 2008,
+    "price": 999999,
+    "description": "Modern beachfront property with direct access to the beach and ocean views.",
+    "creatorId": {
+      "$oid": "6615af313b349e9155a03d34"
+    },
+    "createdAt": "2024-04-02T20:24:51.371Z",
+    "updatedAt": "2024-04-02T20:24:51.371Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57302c02b9625c69c0"
+    },
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gdb698ccc048536cd694e961c64688718f957fcc9782156c8b9d3ca9490c4cbc82bebad4f2f78279be008913f115f09d006a9900eb2a92a3e620fc89ca09bf140_640.jpg",
+    "year": 2010,
+    "price": 500000,
+    "description": "Elegant Georgian-style mansion with a grand staircase and ballroom.",
+    "creatorId": {
+      "$oid": "6615af31b500d41de2bfbe28"
+    },
+    "createdAt": "2024-04-02T20:27:57.966Z",
+    "updatedAt": "2024-04-02T20:27:57.966Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57c07f86b467bc2435"
+    },
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/gdb08cf09877cbbe3ce7099415a9855ddfe263257140924aa0846874509b6c2b5b011dfc227faff16bcb97ec8d171a0bca7e7a1009a0b4fe6628180a4412347de_640.jpg",
+    "year": 1920,
+    "price": 200000,
+    "description": "Cozy log cabin with a creek and wooded surroundings.",
+    "creatorId": {
+      "$oid": "6615af319c56355e7f8873fb"
+    },
+    "createdAt": "2024-04-02T20:41:09.750Z",
+    "updatedAt": "2024-04-02T20:41:09.750Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e5737e63feca920dd2e"
+    },
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/gd3de1499f8b036ead1f43ddea08f4a9311d5ebe9241d0f4fcc8371be86066a9195c11a52adb2f724e2b983f6d1b8c78f49e39b2810b2995cc45621b47394a385_640.jpg",
+    "year": 1776,
+    "price": 1,
+    "description": "Contemporary townhouse with rooftop living space and city views.",
+    "creatorId": {
+      "$oid": "6615af31b42adbbe9c069cc9"
+    },
+    "createdAt": "2024-04-02T21:58:35.322Z",
+    "updatedAt": "2024-04-02T21:58:35.322Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e574c997f1407b3c8d3"
+    },
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "levels": 1,
+    "imgUrl": "https://pixabay.com/get/g60c3c57b73852c425e57f327e23aa8cce9d979b8f3e83ca28dc29bc7baad7dbc8e02e9193eaf6f506909c55a44c3a26507dc21203514ce8e9b45236426d88cdf_640.jpg",
+    "year": 1993,
+    "price": 150000000,
+    "description": "Luxurious estate with a pool, tennis court, and guest house.",
+    "creatorId": {
+      "$oid": "6615af314d61cc65ae5b9e37"
+    },
+    "createdAt": "2024-04-02T22:39:49.044Z",
+    "updatedAt": "2024-04-02T22:39:49.044Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e575a9ff35831420be4"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g0cf1d5644db47195415612e20615555ba9db3cabcc57df0ef640d53046786033f00189fd7142d81e44933c675255b2b1303633735f7362e68057a6e2acf1657b_640.jpg",
+    "year": 1990,
+    "price": 5000,
+    "description": "Colonial revival gem with a sunroom and formal dining room.",
+    "creatorId": {
+      "$oid": "6615af31b7376d33f96399af"
+    },
+    "createdAt": "2024-04-02T22:45:16.878Z",
+    "updatedAt": "2024-04-02T22:45:16.878Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57bc08cade6ab97e6f"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "levels": 2,
+    "imgUrl": "https://pixabay.com/get/g1018564931e7dea91df4bd8a637490ad143a095b1deed043a89e1eff5b4e921cf0dd2f36014470cf217e04a38b1123064d9ad3c1d2e6132dc9e757893953f4fd_640.jpg",
+    "year": 1978,
+    "price": 460000,
+    "description": "Sleek modern home with open living spaces and floor-to-ceiling windows.",
+    "creatorId": {
+      "$oid": "6615af312267d93aaac3ce58"
+    },
+    "createdAt": "2024-04-03T03:15:05.407Z",
+    "updatedAt": "2024-04-03T03:15:05.407Z"
+  },
+  {
+    "_id": {
+      "$oid": "66142e57872f44b62de9b3af"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "levels": 4,
+    "imgUrl": "https://pixabay.com/get/g47834e7f3572b85ac8fad6283289beafe7f91b545dcad8a0d73053461848df73e6df009725c97399cbfdbd45b22f4c8a9482c6396ae4978a790ed7667a6b52ee_640.jpg",
+    "year": 2024,
+    "price": 4,
+    "description": "Charming coastal cottage with ocean views and beach access.",
+    "creatorId": {
+      "$oid": "6615af31fcc19dedd08b642e"
+    },
+    "createdAt": "2024-04-03T05:00:19.445Z",
+    "updatedAt": "2024-04-03T05:00:19.445Z"
+  }
+]
